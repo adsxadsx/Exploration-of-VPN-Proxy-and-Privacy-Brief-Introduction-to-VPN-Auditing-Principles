@@ -29,7 +29,7 @@ VPN机场代理与隐私的一些探索,  以及VPN机场审计原理简单介�
 中转服务器只能到你加密的数据而不知道原始的数据是什么。
 以下面的配置说，它的工作原理是
 
-![image](https://github.com/adsxadsx/Exploration-of-VPN-Proxy-and-Privacy-Brief-Introduction-to-VPN-Auditing-Principles/assets/118355125/66ba75ad-46f3-49f5-bfce-73fcc6a56a92)
+![image](https://github.com/adsxadsx/Exploration-of-VPN-Proxy-and-Privacy-Brief-Introduction-to-VPN-Auditing-Principles/assets/118355125/bc3cc90e-96cc-49a4-bff3-7996fdbc6440)
 
 
 介绍到此为止, 具体实现方式搜 cloudflare 、warp nekoray链式代理。
