@@ -1,5 +1,5 @@
 # Exploration-of-VPN-Proxy-and-Privacy-Brief-Introduction-to-VPN-Auditing-Principles
-VPN机场代理与隐私的一些探索,  以及VPN机场审计原理简单介绍
+文章转载: VPN机场代理与隐私的一些探索,  以及VPN机场审计原理简单介绍
 
 首先是关于机场的一些简单介绍：
 假定我们使用https访问twitter。
@@ -26,11 +26,12 @@ VPN机场代理与隐私的一些探索,  以及VPN机场审计原理简单介�
 
 1基本代理转发
 使代理转发可以实现由一个Shadowsocks服务器或者V2Ray(VMess)服务器来中转你的网络流量，并且
-中转服务器只能到你加密的数据而不知道原始的数据是什么。
+中转服务器只能到你加密的数据而不知道原始的数据是什么。 中转服务器只能到你加密的数据而不知道原始的数据是什么。 
 以下面的配置说，它的工作原理是
 
-![image](https://github.com/adsxadsx/Exploration-of-VPN-Proxy-and-Privacy-Brief-Introduction-to-VPN-Auditing-Principles/assets/118355125/bc3cc90e-96cc-49a4-bff3-7996fdbc6440)
+[image 图像]( （https://github.com/adsxadsx/Exploration-of-VPN-Proxy-and-Privacy-Brief-Introduction-to-VPN-Auditing-Principles/assets/118355125/bc3cc90e-96cc-49a4-bff3-7996fdbc6440) ）
 
 
 介绍到此为止, 具体实现方式搜 cloudflare 、warp nekoray链式代理。
+到目前为止，具体的实现方法是搜索 Cloudflare 和 Warp Nekoray Chain Agent。
 
